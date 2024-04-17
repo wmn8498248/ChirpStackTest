@@ -1,13 +1,13 @@
-# Contributing
+ 贡献
 
-There are a couple of ways to get involved:
+有几种参与方式：
 
-* Join the discussions:
-    * ChirpStack Network Server project forum [https://forum.chirpstack.io/](https://forum.chirpstack.io/)
-* Report bugs or make feature-requests by opening an issue at [https://github.com/brocaar/chirpstack-application-server/issues](https://github.com/brocaar/chirpstack-application-server/issues)
-* Help fixing issues or improve documentation by creating pull-requests
+* 加入讨论：
+    * ChirpStack网络服务器项目论坛[https://forum.chirpstack.io/](https://forum.chirpstack.io/)
+* 通过在 [https://github.com/brocaar/chirpstack-application-server/issues](https://github.com/brocaar/chirpstack-application-server/issues) 上提出问题来报告错误或提出功能请求）
+* 通过创建拉取请求来帮助解决问题或改进文档
 
 
-When you would like to add new features, please discuss the feature first
-by creating an issue describing your feature, how you're planning to implement
-it, what the usecase is etc...
+当您想添加新功能时，请先讨论该功能
+通过创建一个问题来描述您的功能，以及您计划如何实施
+它，用例是什么等等......
